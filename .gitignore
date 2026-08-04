@@ -1,0 +1,21 @@
+# Runtime
+screenshots/
+screenshot_config.json
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local assets / dumps
+allin.jpg
+*.log
